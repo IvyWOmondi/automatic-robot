@@ -1,0 +1,18 @@
+City: wichita
+Weather: clear sky
+Temperature: 16.72°C
+Humidity: 29%
+Wind Speed: 3.09 m/s
+-------------------------
+City: Oklahoma
+Weather: clear sky
+Temperature: 13.99°C
+Humidity: 35%
+Wind Speed: 4.12 m/s
+-------------------------
+City: minot
+Weather: clear sky
+Temperature: 12.12°C
+Humidity: 40%
+Wind Speed: 5.66 m/s
+-------------------------
